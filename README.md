@@ -1,6 +1,7 @@
 # Assignment 5.1 - Will the Customer Accept the Coupon?
 
-### Bar Coupon Acceptance
+### Bar - Coupon Acceptance Observations
+-----------------------------------------
 
 The overall bar coupon acceptance rate across all the drivers is 41%.
 
@@ -20,7 +21,8 @@ Based on the observations, the three factors that influence the bar coupon accep
 
 The coupon acceptance rate is **87%** for drivers under 30 years ago, who visit bar at least once a month and traveling with a friend.
 
-### Coffee House - Coupon Acceptance
+### Coffee House - Coupon Acceptance Observations
+--------------------------------------------------
 
 The overall acceptance rate for coffee house coupons is **50%**
 
