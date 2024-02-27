@@ -1,5 +1,7 @@
 # Assignment 5.1 - Will the Customer Accept the Coupon?
 
+Visit [prompt.ipynb](prompt.ipynb) for the notebook.
+
 ### Bar - Coupon Acceptance Observations
 -----------------------------------------
 
